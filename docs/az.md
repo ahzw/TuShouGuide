@@ -1,8 +1,8 @@
-- 软件目前处于内测阶段，所以需要大家在App Store上面下载苹果官方内测软件`TestFlight`如下图
+- 如需加入软件内测，请大家在App Store上面下载苹果官方内测软件`TestFlight`如下图
 
 ![testflight](_images/testflight.jpeg ':size=320*500')
 
-- 提供一个正确的邮箱地址，会发送内测邀请码，收到邮件之后大概内容如下
+- 联系开发者，并提供一个正确的邮箱地址，会发送内测邀请码，收到邮件之后大概内容如下
 
 ![email](_images/email.jpg ':size=320*500')
 
